@@ -1,0 +1,29 @@
+{
+  "name": "global-namespace-monitor",
+  "version": "1.0.0",
+  "description": "A module that compares your window object once upon an interval to see if you've accidently or purposely added anything that you might want to know about.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "global",
+    "namespace"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/global-namespace-monitor.git"
+  },
+  "homepage": "https://github.com/bunnybones1/global-namespace-monitor",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/global-namespace-monitor/issues"
+  }
+}
